@@ -52,7 +52,7 @@ BEGIN
 END;
 $do$
 
-SELECT * FROM employees;
+SELECT * FROM employees WHERE emp_no = 499942;
 
 
 	
